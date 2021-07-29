@@ -1,11 +1,4 @@
 
-/* -------------------------------------
- * For horizontal version, set the
- * $vertical variable to false
- * ------------------------------------- */
-/* -------------------------------------
- * General Style
- * ------------------------------------- */
  @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
  body {
    max-width: 1200px;
@@ -13,8 +6,8 @@
    padding: 0 5%;
    font-size: 100%;
    font-family: "Noto Sans", sans-serif;
-   color: #eee9dc;
-   background: #48b356;
+   color: #31d41b;
+   background: #020202;
  }
  
  h2 {
@@ -87,12 +80,7 @@
    top: 50%;
    margin-top: -20px;
  }
- .content:after {
-   border-right-color: #48b379;
-   border-width: 17px;
-   top: 50%;
-   margin-top: -17px;
- }
+
  .content p {
    max-height: 0;
    color: transparent;
@@ -120,7 +108,7 @@
    transform: translateX(42px);
  }
  .radio:checked + .relative .circle {
-   background: #f98262;
+   background: #61b0dd;
  }
  .radio:checked ~ .content {
    max-height: 180px;
