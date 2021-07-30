@@ -215,3 +215,25 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
   background-color: #777;
 }
+
+.imagem{
+  width: 20%;
+  border-radius: 10%;
+  padding: 1%;
+  }
+   
+.post{
+  width: 100%;
+  background-color:#333;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin: 0;
+  }
+
+  .letra{
+  color: #eee9dc;
+
+  }
