@@ -130,6 +130,7 @@
     background-color: #333;
     white-space: nowrap;
     width: 105%;
+    text-align: center;
   }
   
   div.scrollmenu a {

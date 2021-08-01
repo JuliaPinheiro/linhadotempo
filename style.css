@@ -204,6 +204,7 @@
   * mobile phones (vertical version only)
   * ------------------------------------- */
 div.scrollmenu {
+  text-align: center;
   background-color: #333;
   white-space: nowrap;
   width: 105%;
